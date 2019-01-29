@@ -167,9 +167,9 @@ p, .main-font {
     }
     .about-me {
         float: left;
+        top: 30px;
         left: 40px;
         width: 600px;
-        /* height: auto; */
     }
 } 
 
